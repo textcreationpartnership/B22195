@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments resolution concerning the Kings Most Excellent Maiesty and the Lords and Commons which have absented themselves from the said Houses, and are now at Yorke attending on His Maiestie : also their determination concerning the citie of London, and all other counties, that are contributors to this religious designe : wherein is declared the grounds of their proceedings, and the reasons why they are inforced to take armes : His Majesties honour, our religion, lives, and estates being in great hazard : whereunto is annexed severall reasons to prove that every man is bound to defend and uphold the Parliament and priviledges thereof against all opposers whatsoever.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22195</idno><idno type="EEBO-CITATION">13256507</idno>
+  <idno type="VID">206083</idno>
+  <idno type="EEBO-PROQUEST">2240888845</idno>
+  
+            <idno type="STC">Wing E2145A</idno>
+            <idno type="OCLC">13256507</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206083)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1550:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments resolution concerning the Kings Most Excellent Maiesty and the Lords and Commons which have absented themselves from the said Houses, and are now at Yorke attending on His Maiestie : also their determination concerning the citie of London, and all other counties, that are contributors to this religious designe : wherein is declared the grounds of their proceedings, and the reasons why they are inforced to take armes : His Majesties honour, our religion, lives, and estates being in great hazard : whereunto is annexed severall reasons to prove that every man is bound to defend and uphold the Parliament and priviledges thereof against all opposers whatsoever.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Favvcet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 23, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Incorrectly identified on film as Wing E2145.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206083:1"/>
+            <pb facs="tcp:206083:1"/>
+            <p>THE PARLIAMENTS RESOLUTION, Concerning The KINGS most Excellent MAIESTY, and the LORDS and COMMONS, which have absene<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d themselves from the said Houses, and are now at <hi>Yorke</hi> attending on his MAIESTIE.</p>
+            <p>Also their determination concerning the Citie of <hi>London,</hi> and all other Counties, that are Contribu<g ref="char:EOLhyphen"/>ters to this Religious designe.</p>
+            <p>Wherein is declared the Grounds of their Pro<g ref="char:EOLhyphen"/>ceedings, and the Reasons why they are inforced to take Armes.</p>
+            <p>His Majesties Honour, our Religion, Lives, and Estates, being in great hazard.</p>
+            <p>Whereunto is annexed severall Reasons to prove that every man is bound to Defend and Uphold the PARLIAMENT and Priviledges thereof against all Opposers whatsoever.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Lords and Commons assembled in <hi>PARLIAMENT,</hi> That this be Published and Printed.</p>
+                        <closer>
+                           <signed>Jo. Browne, Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed by T. FAVVCET, 1642. <hi>June,</hi> 23.</p>
+            <pb facs="tcp:206083:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_resolution">
+            <pb facs="tcp:206083:2"/>
+            <head>The Parliaments Resolution con<g ref="char:EOLhyphen"/>cerning the Kings most Ex<g ref="char:EOLhyphen"/>cellent Majesty, and the Lords, and Commons▪ that have absented themselves without leave.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Uch are the di<g ref="char:EOLhyphen"/>stempers of the times, so many severall Factions that niether Court, nor City, is free from the fruits of malignity, which has beene the main Motive to induce the High Court of Par<g ref="char:EOLhyphen"/>liament to set downe their Resolution both concerning the Kings most excellent Majesty, and the Lords and Commons at
+<pb n="2" facs="tcp:206083:3"/>
+               <hi>Yorke,</hi> now attending his Royall Maiesty</p>
+            <p>To which end they have presented se<g ref="char:EOLhyphen"/>verall Propositions to his Maiesty, desi<g ref="char:EOLhyphen"/>ring him graciously to condiscend, to the things proposed, declaring that their Re<g ref="char:EOLhyphen"/>solution was (those just and honourable propositions granted) to settle his Maie<g ref="char:EOLhyphen"/>sties Revenue, to advance his Honour, above his Predecessours, to establish his Government in greater Peace, and fuller of content then ever it was since he came to the Crowne, on the contrary (if his Maiesty should deny to grant the ne<g ref="char:EOLhyphen"/>cessary requests of his Parliament) they are resolved, being inforced by their Oath of Allegiance, and dutie to his Maiesty, to endeavour to secure his Maiesties Per<g ref="char:EOLhyphen"/>son, from those imminent dangers that threaten to destroy him and his Posteri<g ref="char:EOLhyphen"/>ty, and to preserve the Peace▪ of his Ma<g ref="char:EOLhyphen"/>iesties Kingdomes, and Subiects, and to prevent the designes which are both dan<g ref="char:EOLhyphen"/>gerous to his Maiesty, and the said King<g ref="char:EOLhyphen"/>domes, by the authority of both Houses
+<pb n="3" facs="tcp:206083:3"/> of Parliament, in such manner as the had propounded to his Maiesty, which they were resolu'd to doe accordingly.</p>
+            <p>They resolved also that the Members of the said House, that had ahsented them<g ref="char:EOLhyphen"/>selves without leave should pay their Fine of 100. pounds a man, and ro be examined by a Committee before their next sitting, in the House, to shew the cause of their absenting themselves, upon summons of the said House.</p>
+            <p>This is the Resolution of the Lords and Commons assembled in Parliament, and this they are compelled to the ma<g ref="char:EOLhyphen"/>lignant Party having gotten sue a strong Faction, and his Royall maiesty discen<g ref="char:EOLhyphen"/>ting from their iust and honourable re<g ref="char:EOLhyphen"/>quests, and all those that are desirous to declare themselues true Subiects to his Maiesty, and maintainers of the peace of the Kingdome, are bound in conscience, both by Lawes of God, and the King<g ref="char:EOLhyphen"/>dome, to ioyne with the Parliament,
+<pb n="4" facs="tcp:206083:4"/> and to put their commands in speedy ex<g ref="char:EOLhyphen"/>ecution, their commands being both iust and honourable, all their Actions, Studies and endeavours, tending to the preserva<g ref="char:EOLhyphen"/>tion of his Maiesties Sacred Person, the advancement of the Gospell and the true Orthodox Doctrine of the Church of <hi>England,</hi> and the maintenance of the Li<g ref="char:EOLhyphen"/>bertie and propriety of the Subject, and to the end that his Maiesties Loving Subiects may be incouraged to put their Commands in speedy execution, not be<g ref="char:EOLhyphen"/>ing deterr'd, or daunted with vaine sur<g ref="char:EOLhyphen"/>mizes, of faint feare, (like Cowards which dreame of death at the report of a Battaile) they have likewise set downe their Reso<g ref="char:EOLhyphen"/>lution concerning the Citie of <hi>London,</hi> and all other Counties in these his Maie<g ref="char:EOLhyphen"/>sties Dominions.</p>
+            <p>As touching the Designe, they resolved, finding the dangerous and mischievous Jntentions and desperate Actions, of some evill affected persons about his Maiesty,
+<pb n="5" facs="tcp:206083:4"/> to be such, and of such dangerous conse<g ref="char:EOLhyphen"/>quence, that whatsoever is most precious and of most esteeme to men of Conscience and Honour, namely Religion, Liberty, and publique safety, are like to be over<g ref="char:EOLhyphen"/>whelmed, and lost in the generall con<g ref="char:EOLhyphen"/>fusion, and calamity of this distracted Kingdome.</p>
+            <p>And that there may be no way unat<g ref="char:EOLhyphen"/>tempted, nor meanes neglected, that may dissolve all doubts and Iealousies, and to prevent those horrid mischiefs, the Lords and Commons doe declare, their honours intentions, and legall proceedings, so as those of the Citie, which lend their wil<g ref="char:EOLhyphen"/>ling assistance, and contribute thereunto, and all other his Maiestie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good Subiects and loyall Liege People, may be assured that by doing their duty herein, and in condiscending to their iust, and necessary Propositions, they shall assuredly be pro<g ref="char:EOLhyphen"/>tected, and secured in their Persons, Li<g ref="char:EOLhyphen"/>berties, and Estates, by the power and
+<pb n="6" facs="tcp:206083:5"/> Authority of both Houses of Parliament, according to their former Ingagements, which they will ever faithfully performe.</p>
+            <p>
+               <hi>The Reason why the Subiect is bound to obey the Command of the Parliament, Voted,</hi>
+               <lb/> That if in case of necessity, if his Ma<g ref="char:EOLhyphen"/>iesty shall deny his assent, the Ordinance agreed on by both Houses of Parliament, doth obliege the People, and ought to be obeyed, being warranted by the Funda<g ref="char:EOLhyphen"/>mentall Lawes of the Kingdome.</p>
+            <closer/>
+            <postscript>
+               <p>Ordered by the Lords and Commons in Parliament, that this be Printed and Publi<g ref="char:EOLhyphen"/>shed.</p>
+               <closer>
+                  <signed>Joh. Browne, Cler. Parl.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206083:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
